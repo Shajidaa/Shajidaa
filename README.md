@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png" alt="Banner" width="100%" height='100%' />
+  <img src="https://i.ibb.co.com/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png" alt="Banner"  style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shajida Akter Lopa</h1>
 
-<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center"></h3>
 
 ---
 
- 🚀 About Me  
-- 💻 I’m a frontend developer focused on building clean, responsive & user-friendly experiences.
+## 🚀 About Me  
+
+- 💻 I’m a MERN Stack Developer based in Bangladesh, passionate about building sleek, responsive, and high-performance web applications. I enjoy working with modern technologies to develop scalable solutions that follow clean architecture and best development practices.
+
+
+
 
 ## 🎯 Current Activity
 - 🌱 Currently learning: **  Express.js & Advanced Backend Development**
@@ -19,6 +23,7 @@
 
 
 ---
+
 
 ## 📱 Connect With Me  
 <p align="left">
@@ -30,18 +35,24 @@
 
 # 🧰 TECHNOLOGY STACK
 
-## 🌐 Languages
+## 🌐 Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-## 🎨 **Frontend Frameworks & Libraries**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+</p>
+
+## 🗄️ **Backend & Databases**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" />
 </p>
 
 ## 🛠️ **Tools & Platforms**
@@ -52,12 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" />
 </p>
 
-## 🗄️ **Backend & Databases**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" />
-</p>
+
 
 ---
 
@@ -67,9 +73,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shajidaa&show_icons=true&theme=tokyonight" height="150" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidaa&show_icons=true&layout=compact&theme=tokyonight" height="150"/>
-
 </p>
-
 
 
 ---
