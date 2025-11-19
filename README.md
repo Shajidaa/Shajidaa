@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://i.ibb.co/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png" alt="Banner" width="100%" height="100%" />
+  <img src="https://i.ibb.co.com/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png" alt="Banner" width="100%" height='100%' />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shajida Akter Lopa</h1>
