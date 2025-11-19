@@ -62,8 +62,8 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidaa&show_icons=true&layout=compact&theme=tokyonight" height="150"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shajidaa&show_icons=true&theme=tokyonight" height="150" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidaa&show_icons=true&layout=compact&theme=tokyonight" height="150"/>
 
 </p>
 
