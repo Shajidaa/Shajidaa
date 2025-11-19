@@ -13,7 +13,7 @@
 - 🌱 Currently learning: **React, Tailwind, JavaScript Advanced Concepts**  
 - ✨ Love designing UI/UX and creating beautiful interfaces  
 - 🎯 Goal: Become a full-stack web developer  
-- 📫 How to reach me: ****  
+
 
 ---
 
@@ -27,7 +27,7 @@
 
 # 🧰 TECHNOLOGY STACK
 
-## 🌐 **Languages**
+## 🌐 Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
@@ -63,11 +63,11 @@
 ### 📈 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidaa&show_icons=true&layout=compact&theme=tokyonight" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shajidaa&show_icons=true&theme=tokyonight" height="150" />
+
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shajidaa&show_icons=true&theme=tokyonight" height="150" />
-</p>
+
 
 ---
 
