@@ -3,7 +3,8 @@
   <img src="https://i.ibb.co/ZMtJkhS/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shajida Akter Lopa</h1>
+<a align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1D68F7&center=true&vCenter=true&width=435&lines=++Hi+%F0%9F%91%8B%2C+I'm;Shajida+Akter+Lopa+.." alt="Typing SVG" /></a>
+
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
 ---
