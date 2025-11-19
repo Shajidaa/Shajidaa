@@ -1,6 +1,6 @@
 <!-- Banner (You can replace the image link with your own banner) -->
 <p align="center">
-  <img src="https://i.ibb.co.com/chxK73RD/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shajida Akter Lopa</h1>
