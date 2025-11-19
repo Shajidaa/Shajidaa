@@ -8,10 +8,13 @@
 
 ---
 
-## 🚀 About Me  
-- 💻 I’m a frontend developer focused on building clean, responsive & user-friendly experiences.  
-- 🌱 Currently learning: **React, Tailwind, JavaScript Advanced Concepts**  
-- ✨ Love designing UI/UX and creating beautiful interfaces  
+ 🚀 About Me  
+- 💻 I’m a frontend developer focused on building clean, responsive & user-friendly experiences.
+
+## 🎯 Current Activity
+- 🌱 Currently learning: **  Express.js & Advanced Backend Development**
+- 💼 Working On: Parcel Delivery Web Application
+-🛠️ Tech Stack: Node.js, Express.js, MongoDB, React
 - 🎯 Goal: Become a full-stack web developer  
 
 
