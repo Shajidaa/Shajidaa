@@ -37,7 +37,7 @@
 
 ---
 
-# 🧰 TECHNOLOGY STACK
+# TECHNOLOGY STACK
 
 ## 🌐 Frontend Development
 <p>
