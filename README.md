@@ -12,14 +12,14 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 - 💻 I’m a MERN Stack Developer based in Bangladesh, passionate about building sleek, responsive, and high-performance web applications. I enjoy working with modern technologies to develop scalable solutions that follow clean architecture and best development practices.
 
 
 
 
-## 🎯 Current Activity
+##  Current Activity
 - 🌱 Currently learning: **  Express.js & Advanced Backend Development**
 - 💼 Working On: Parcel Delivery Web Application
 -🛠️ Tech Stack: Node.js, Express.js, MongoDB, React
@@ -39,7 +39,7 @@
 
 # TECHNOLOGY STACK
 
-## 🌐 Frontend Development
+##  Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
@@ -52,14 +52,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
 </p>
 
-## 🗄️ **Backend & Databases**
+##  **Backend & Databases**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" />
 </p>
 
-## 🛠️ **Tools & Platforms**
+##  **Tools & Platforms**
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
@@ -73,7 +73,7 @@
 
 
 
-### 📈 GitHub Status
+###  GitHub Status
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shajidaa&show_icons=true&theme=tokyonight" height="150" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidaa&show_icons=true&layout=compact&theme=tokyonight" height="150"/>
