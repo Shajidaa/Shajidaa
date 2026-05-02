@@ -20,10 +20,10 @@
 
 
 ##  Current Activity
-- 🌱 Currently learning: **  Express.js & Advanced Backend Development**
-- 💼 Working On: Parcel Delivery Web Application
--🛠️ Tech Stack: Node.js, Express.js, MongoDB, React
-- 🎯 Goal: Become a full-stack web developer  
+-  Currently learning: **  Express.js & Advanced Backend Development**
+-  Working On: Parcel Delivery Web Application
+- Tech Stack: Node.js, Express.js, MongoDB, React
+-  Goal: Become a full-stack web developer  
 
 
 ---
