@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png"
+    src="https://i.ibb.co/JRCzdyYN/Abstract-Technology-Profile-Linked-In-Banner-1.png](https://i.ibb.co.com/ZzpSH5rL/Gemini-Generated-Image-74y04074y04074y0.png"
     alt="Banner"
     width="100%"
   />
