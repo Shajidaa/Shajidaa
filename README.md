@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">✨ Hi, I'm Shajida Akter Lopa ✨</h1>
+<h1 align="center"> Hi, I'm Shajida Akter Lopa </h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
