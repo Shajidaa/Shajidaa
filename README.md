@@ -119,9 +119,10 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shajidaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidaa&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="42%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shajidaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Shajidaa&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="42%" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajidaa&theme=tokyonight&hide_border=true" width="60%" />
@@ -129,18 +130,17 @@
 
 ---
 
-##  GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shajidaa&theme=radical&row=1&column=6&margin-w=15" />
-</p>
 
----
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shajidaa&theme=radical&row=1&column=6&margin-w=15" />
+</p> -->
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=Shajidaa&theme=radical&no-frame=true&margin-w=15) -->
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajidaa&theme=react-dark&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shajidaa&theme=react-dark&hide_border=true" width="90%" />
 </p>
 
 ---
