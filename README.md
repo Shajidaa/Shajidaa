@@ -165,5 +165,5 @@
 </p>
 
 <p align="center">
- ![snake gif](https://github.com/Shajidaa/Shajidaa/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/Shajidaa/Shajidaa/blob/output/github-contribution-grid-snake-dark.svg)
 </p>
