@@ -1,0 +1,17 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Updates every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Shajidaa
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
