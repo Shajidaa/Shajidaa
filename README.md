@@ -124,9 +124,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/?user=Shajidaa&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+</p> -->
 
 ---
 
